@@ -5,7 +5,6 @@ import { chromium } from 'playwright';
 
 // MASUKKAN ID GDOCS KE TEMPATNYA
 const docsLink = 'https://docs.google.com/document/d/ID_GDOCS_KAU/export?format=html'
-// const docsLink = 'https://docs.google.com/document/d/1vLm9QZYKi1gdMB8RVzPCHnSzn2KmKWXxFppHydBMCgY/export?format=html'
 
 interface LogbookEntry {
     tanggal: string;
